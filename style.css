@@ -88,3 +88,6 @@ footer {
 main {
   display: flex;
 }
+.greeting {
+  text-align: center;
+}
